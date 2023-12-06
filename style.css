@@ -1,0 +1,9 @@
+.corpo{
+    background-color: aquamarine;
+    text-align: center;
+    color: black;
+    border: 3cm;
+    border-color: black;
+    border-style: inset;
+    border-radius: 17px;
+}
